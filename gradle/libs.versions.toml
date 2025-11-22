@@ -17,9 +17,8 @@ kotlin = "2.2.20"
 # CameraX
 camerax = "1.5.1"
 
-# MediaPipe - Versión 0.10.14 con JNI mejorado
+# MediaPipe - Versión 20230731
 mediapipe-tasks-vision = "0.20230731"
-
 # Moko MVVM
 moko-mvvm = "0.16.1"
 
