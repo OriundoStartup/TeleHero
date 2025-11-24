@@ -33,6 +33,8 @@ kotlin {
 
             implementation(project(":mediapipe-bridge"))
             implementation("com.google.guava:guava:32.1.2-android")
+            implementation("com.google.mlkit:pose-detection:18.0.0-beta1")
+            implementation("com.google.mlkit:pose-detection-accurate:18.0.0-beta1")
 
             implementation(libs.androidx.core.ktx)
             implementation(compose.preview)
